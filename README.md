@@ -1,7 +1,7 @@
-3>ENTER YOUR NAME : KARTHIKA E</H3>
+<H3>ENTER YOUR NAME : KARTHIKA E</H3>
 <H3>ENTER YOUR REGISTER NO: 212222040072</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -18,6 +18,7 @@ Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
 ```
+
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -58,11 +59,13 @@ print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
 
+
 ```
 
 <H3>Output:</H3>
 
-![image](https://github.com/karthika28112004/EX-6-NN/assets/128035087/4112e471-cc41-4e1f-af8d-ed36504f5e48)
+![image](https://github.com/karthika28112004/EX-6-NN/assets/128035087/e3622ca2-ff97-4a76-b725-949633728221)
+
 
 
 
